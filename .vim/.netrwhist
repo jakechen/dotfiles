@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/jake/projects/proptone/app/controllers'
+let g:netrw_dirhist_2='/Users/jake/projects/proptone/db'
+let g:netrw_dirhist_3='/Users/jake/projects/proptone/lib/proptone'
+let g:netrw_dirhist_4='/Users/jake/projects/proptone/lib/tasks'
+let g:netrw_dirhist_5='/Users/jake/projects/proptone/lib'
+let g:netrw_dirhist_6='/Users/jake/projects/proptone/lib/assets'
+let g:netrw_dirhist_7='/Users/jake/projects/proptone/lib'
+let g:netrw_dirhist_8='/Users/jake/projects/proptone/lib/proptone'
+let g:netrw_dirhist_9='/Users/jake/Dropbox/Projects/musefy_app/app/views/account/profile'
