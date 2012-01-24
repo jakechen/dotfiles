@@ -10,5 +10,6 @@ alias gs="git status"
 alias gl="git log"
 
 alias rs="rails server"
+alias rc="rails console"
 
 alias ssh_musefy="ssh www.musefy.com -l musefyco"
