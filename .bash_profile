@@ -8,6 +8,7 @@ alias ga="git add"
 alias gc="git commit -am"
 alias gs="git status"
 alias gl="git log"
+alias gp="git pull"
 
 alias rs="rails server"
 alias rc="rails console"
