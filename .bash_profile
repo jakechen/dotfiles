@@ -9,7 +9,7 @@ alias gc="git commit -am"
 alias gs="git status"
 alias gl="git log"
 alias gp="git pull"
-alias gd="git diff"
+alias gd="git diff HEAD"
 
 alias rs="rails server"
 alias rc="rails console"
