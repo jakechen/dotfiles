@@ -15,3 +15,6 @@ alias rs="rails server"
 alias rc="rails console"
 
 alias ssh_musefy="ssh www.musefy.com -l musefyco"
+
+alias mysql=/usr/local/mysql/bin/mysql
+alias mysqladmin=/usr/local/mysql/bin/mysqladmin
