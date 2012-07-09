@@ -1,5 +1,4 @@
 [[ -s "$HOME/.rvm/scripts/rvm" ]] && . "$HOME/.rvm/scripts/rvm" # Load RVM function
-PATH=$PATH:/Users/Jake/bin
 
 export CLICOLOR=1
 export LSCOLORS=GxFxCxDxBxegedabagaced
