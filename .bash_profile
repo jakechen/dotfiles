@@ -1,4 +1,5 @@
 [[ -s "$HOME/.rvm/scripts/rvm" ]] && . "$HOME/.rvm/scripts/rvm" # Load RVM function
+PATH=$PATH:/Users/Jake/bin
 
 export CLICOLOR=1
 export LSCOLORS=GxFxCxDxBxegedabagaced
@@ -18,3 +19,5 @@ alias ssh_musefy="ssh www.musefy.com -l musefyco"
 
 alias mysql=/usr/local/mysql/bin/mysql
 alias mysqladmin=/usr/local/mysql/bin/mysqladmin
+
+alias "get-shit-done"="sudo ~/bin/get-shit-done/get-shit-done.sh"
