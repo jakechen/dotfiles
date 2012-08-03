@@ -19,4 +19,4 @@ alias ssh_musefy="ssh www.musefy.com -l musefyco"
 alias mysql=/usr/local/mysql/bin/mysql
 alias mysqladmin=/usr/local/mysql/bin/mysqladmin
 
-alias "gsd"="sudo ~/bin/get-shit-done/get-shit-done"
+alias "get-shit-done"="sudo ~/bin/get-shit-done/get-shit-done"
