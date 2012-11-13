@@ -20,3 +20,21 @@ alias mysql=/usr/local/mysql/bin/mysql
 alias mysqladmin=/usr/local/mysql/bin/mysqladmin
 
 alias "get-shit-done"="sudo ~/bin/get-shit-done/get-shit-done"
+
+##
+# Your previous /Users/jake/.bash_profile file was backed up as /Users/jake/.bash_profile.macports-saved_2012-08-25_at_12:21:01
+##
+
+# MacPorts Installer addition on 2012-08-25_at_12:21:01: adding an appropriate PATH variable for use with MacPorts.
+export PATH=/opt/local/bin:/opt/local/sbin:$PATH
+# Finished adapting your PATH environment variable for use with MacPorts.
+
+
+##
+# Your previous /Users/jake/.bash_profile file was backed up as /Users/jake/.bash_profile.macports-saved_2012-09-03_at_18:31:38
+##
+
+# MacPorts Installer addition on 2012-09-03_at_18:31:38: adding an appropriate PATH variable for use with MacPorts.
+export PATH=/opt/local/bin:/opt/local/sbin:$PATH
+# Finished adapting your PATH environment variable for use with MacPorts.
+
